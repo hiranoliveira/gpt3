@@ -43,7 +43,7 @@ const Footer = () => {
       </div>
 
       <div className="gpt3__footer-copyright">
-        <p>© 2023 <a href="https://linkedin.com/in/hiraanoliveira" target="_blank" rel="noopener noreferrer">Hiran Oliveira</a>. All rights reserved.</p>
+        <p>© 2023 <a href="https://linkedin.com/in/hiranoliveira" target="_blank" rel="noopener noreferrer">Hiran Oliveira</a>. All rights reserved.</p>
       </div>
     </div>
   )
