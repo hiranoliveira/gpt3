@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
 
-import possibilityImage from '../../assets/possibility.png'
+import possibilityImage from '../../assets/possibility.webp'
 import './possibility.css'
 
 const Possibility = () => {
